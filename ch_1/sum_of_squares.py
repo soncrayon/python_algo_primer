@@ -1,3 +1,5 @@
+# given an integer, num, find the sum of the squares of all positive integers less than num
+
 def sum_of_squares( num ):
     square_sum = 0
     current_num = num - 1

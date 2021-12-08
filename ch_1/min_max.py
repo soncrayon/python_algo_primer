@@ -1,3 +1,5 @@
+# given an list (array), find the min and max and return as a two-number tuple; do not use built-in min and max Python list methods
+
 def min_max( arr ):
     min_number = arr[0]
     max_number = arr[0]

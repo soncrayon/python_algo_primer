@@ -1,3 +1,5 @@
+# determine if a given integer is even; do not use multiplication, division, or modulo operators
+
 def is_even_bitwise (num):
     return True if num&1 == 0 else False 
 
